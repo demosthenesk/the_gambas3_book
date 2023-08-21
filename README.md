@@ -15,3 +15,5 @@ This repo holds the pdf file of the book, the odt file and the Projects of Gamba
 Το βιβλίο είναι γραμμένο στα Ελληνικά. Είναι ένα δωρεάν βιβλίο με άδεια CC-By-Sa 3.0.
 
 Αυτό το αποθετήριο περιέχει το αρχείο pdf του βιβλίου, το αρχείο odt και τα Projects της Gambas3 που υπάρχουν στο βιβλίο ως παραδείγματα.
+
+<img title="" src="3d-cover-gambas3-book-gr.jpg" alt="" width="635" data-align="center">
